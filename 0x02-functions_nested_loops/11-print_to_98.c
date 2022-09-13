@@ -6,6 +6,11 @@
  *
  * Return: must not be 0
  */
+/**
+ * print_to_98 - main function
+ *
+ * @n: character etc
+ */
 void print_to_98(int n)
 {
 	int i;
